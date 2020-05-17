@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fengfei3701.github.io</id>
     <title>乒乓投资</title>
-    <updated>2020-05-17T13:15:48.937Z</updated>
+    <updated>2020-05-17T13:35:13.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fengfei3701.github.io"/>
     <link rel="self" href="https://fengfei3701.github.io/atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://fengfei3701.github.io/images/avatar.png</logo>
     <icon>https://fengfei3701.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 乒乓投资</rights>
+    <entry>
+        <title type="html"><![CDATA[通过个人博客记录自己投资的点点滴滴]]></title>
+        <id>https://fengfei3701.github.io/post/tong-guo-ge-ren-bo-ke-ji-lu-zi-ji-tou-zi-de-dian-dian-di-di/</id>
+        <link href="https://fengfei3701.github.io/post/tong-guo-ge-ren-bo-ke-ji-lu-zi-ji-tou-zi-de-dian-dian-di-di/">
+        </link>
+        <updated>2020-05-17T13:20:05.000Z</updated>
+        <content type="html"><![CDATA[<p>撇除作为一个计算机毕业生与生俱来建站的欲望外，开通个人博客其实是因为在头条发的文章直接被和谐了，整个打理的账号化为一片废墟，所以萌生了一个搭建个人博客的想法。毕业这么多年其实很多知识都忘了，还好遇到Gridea，让我傻瓜式搭个站点的想法成为现实。<br>
+建立个人博客，主要是为了方便记录自己投资的点点滴滴，记录自己的成长和成长过程中的弯路，如果遇到感兴趣的事情，也有个途径发表自己的意见。既然主要是记录自己的投资点滴，就简单说说自己的投资内容。<br>
+A股投资6年，目前以中短线为主，参与可转债打新和基金定投，今年中短线投资收益大概在30%，希望今年能继续保持，控制回撤。近期参与了港股打新，基本算是从头开始，刚好可以在博客记录全部的过程。去年开始接触虚拟货币，不过不以炒币为主，找一些新的好项目参与，算是挖矿的一员，目前主要参与Pi币挖矿。<br>
+基本的情况就是这样，后面遇到好的机会和内容还会继续丰富。希望可以一只坚持初衷，通过博客记录投资过程中的点点滴滴，做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人。<img src="https://fengfei3701.github.io/post-images/1589722453327.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
